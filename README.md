@@ -1,4 +1,4 @@
-![banner](https://github.com/bevkk/php-blogapp/assets/67962407/1a9c9015-92bb-41e8-8f35-e03e36dd1a33)
+![banner](https://github.com/bevkk/php-blogapp/assets/67962407/d07206af-5f1c-45c2-b061-46b4edc439ad)
 
 # PHP - BlogApp
 Basic php blog site
@@ -29,10 +29,10 @@ INSERT INTO users (id, username, password) VALUES (1, 'admin', 'admin');
 ## Index Page
 - You can see newest blogs, search for any blog, login or register from index page
 
-![indexpage](https://github.com/bevkk/php-blogapp/assets/67962407/3e90038b-f38f-4905-97be-15455933c49d)
+![indexpage](https://github.com/bevkk/php-blogapp/assets/67962407/4ba398f0-de64-4657-a521-29cc7ef16828)
 
 ## Blog Page Example
 
-![blogpage](https://github.com/bevkk/php-blogapp/assets/67962407/b94009dc-55d4-4aa2-8758-cc8f47f4f3b6)
+![blogpage](https://github.com/bevkk/php-blogapp/assets/67962407/21f69f0b-48e7-4337-91b4-859f796c9792)
 
 ### ["Click Here"](https://www.youtube.com/watch?v=QNXKO976kHA) to see other features 
