@@ -7,11 +7,11 @@ Basic php blog site where you can add, edit, remove blogs
 ## To Create the DataBase used in this project, use this query
 
 ```
-CREATE DATABASE IF NOT EXISTS test;
+CREATE DATABASE IF NOT EXISTS blogg_app;
 
 USE test;
 
-CREATE TABLE IF NOT EXISTS users (
+CREATE TABLE IF NOT EXISTS blogg_app (
     id INT PRIMARY KEY AUTO_INCREMENT,
     username VARCHAR(255) NOT NULL,
     password VARCHAR(255) NOT NULL
