@@ -1,7 +1,7 @@
 ![banner](https://github.com/bevkk/php-blogapp/assets/67962407/1a9c9015-92bb-41e8-8f35-e03e36dd1a33)
 
 # PHP - BlogApp
-Basic php blog site where you can add, edit, remove blogs
+Basic php blog site
 
 
 ## To Create the DataBase used in this project, use this query
@@ -35,4 +35,4 @@ INSERT INTO users (id, username, password) VALUES (1, 'admin', 'admin');
 
 ![blogpage](https://github.com/bevkk/php-blogapp/assets/67962407/b94009dc-55d4-4aa2-8758-cc8f47f4f3b6)
 
-### ["Click Here"](https://www.youtube.com/watch?v=QNXKO976kHA) to see other features from this video 
+### ["Click Here"](https://www.youtube.com/watch?v=QNXKO976kHA) to see other features 
