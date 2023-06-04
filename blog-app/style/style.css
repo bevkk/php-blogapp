@@ -1,0 +1,55 @@
+body{
+    background-color: #f5f5f5;
+}
+.navbar-custom {
+    color: white; /* Navbar yazılarının rengi */
+  }
+  
+  .navbar-custom .navbar-nav .nav-link {
+    color: white; /* Navbar bağlantılarının rengi */
+  }
+  
+  .navbar-custom .navbar-toggler {
+    color: white; /* Navbar açma/kapama düğmesinin rengi */
+  }
+  
+.collapse a{
+    color: white;
+}
+.index-main{
+    min-height: 300px;
+}
+
+.search-section{
+    max-height: 200px;
+    min-height: 0px;
+}
+
+#sticky-footer {
+    left: 0%;
+    bottom: 0;
+    width: 100%;
+    background-color: #343a40; /* Footer arkaplan rengi */
+    color: rgba(255, 255, 255, 0.5); /* Footer metin rengi */
+    padding: 10px 0; /* Footer içerik dolgusu */
+  }
+
+  .img-404{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+  }
+
+
+  .admin-header h3{
+    text-decoration: underline;
+  }
+
+  .title-card{
+    background-color: #343a40;
+    color: #f5f5f5;
+  }
+
+  #main-cont{
+    min-height: 750px;
+  }
